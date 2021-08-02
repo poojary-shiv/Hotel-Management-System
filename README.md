@@ -168,6 +168,9 @@ v.	Message for successful updation of the password is displayed.
 
 <img src="hoteldeck_ss/p3.png">
 
+**EER diagram for database:**
+
+<img src="hoteldeck_ss/eer.jpg">
 
 
 **Programming languages used:**
