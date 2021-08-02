@@ -1,0 +1,23 @@
+.shadowbox {
+  /* width: 15em; */
+  margin:150px auto 70px;
+  height:250px;
+  width:400px;
+  border: 5px solid #333;
+  box-shadow: 20px 20px 35px #444;
+  padding: 8px 12px;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
+
+.self-thumbs-up {
+	padding-top:40px;
+	padding-bottom:10px;
+  color:#303030;
+  font-weight: bold;
+  font-size: 3.5rem;
+}
+
+h6 {
+	color:#303030;
+	text-align:center;
+}

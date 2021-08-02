@@ -1,0 +1,38 @@
+h2 {
+	padding-top:30px;
+	padding-bottom:15px;
+	text-align:center;
+	color:#585858; 
+	font-weight:bolder;
+}
+
+h4 {
+	text-align:center;
+	color:#585858;
+	font-weight:bold;
+	padding-bottom:10px;
+	padding-top:20px;
+}
+
+li {
+	font-height:1.3rem;
+	color:#585858;
+	font-weight:bold;
+}
+
+hr {
+  border: dotted #cccccc 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 10px auto;
+}
+
+
+.self-container {
+	width:600px;
+}
+
+.self-jumbotron {
+	margin-top:0px;
+	padding-top:20px;
+}
